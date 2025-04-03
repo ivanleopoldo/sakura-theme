@@ -20,7 +20,7 @@
     "simple"
   ],
   "repository": {
-    "url": "https://github.com/ivanleopoldo/vscode-sakura-theme"
+    "url": "https://github.com/ivanleopoldo/sakura-theme"
   },
   "contributes": {
     "themes": [
