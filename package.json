@@ -4,6 +4,7 @@
   "description": "a dark theme with pink accents",
   "version": "0.0.1",
   "publisher": "milk",
+  "logo": "assets/logo.png",
   "engines": {
     "vscode": "^1.98.0"
   },
