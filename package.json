@@ -3,18 +3,31 @@
   "displayName": "Sakura Theme",
   "description": "a dark theme with pink accents",
   "version": "0.0.1",
+  "publisher": "milk",
   "engines": {
     "vscode": "^1.98.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "pink",
+    "sakura",
+    "pink",
+    "purple",
+    "simple"
+  ],
+  "repository": {
+    "url": "https://github.com/ivanleopoldo/vscode-sakura-theme"
+  },
   "contributes": {
     "themes": [
       {
         "label": "Sakura Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Sakura Dark Theme-color-theme.json"
+        "path": "./themes/Sakura Dark Theme.json"
       }
     ]
   }
