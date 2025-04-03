@@ -1,0 +1,21 @@
+{
+  "name": "sakura-theme",
+  "displayName": "Sakura Theme",
+  "description": "a dark theme with pink accents",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sakura Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sakura Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
